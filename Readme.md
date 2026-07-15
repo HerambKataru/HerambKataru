@@ -20,7 +20,7 @@
 ```bash
 $ cat about_me.txt
 
-Hey, I'm [Your Name] 👋
+Hey, I'm Heramb 👋
 I build stuff, then immediately try to break it, then fix it properly.
 That's basically my entire personality as a dev.
 
@@ -32,8 +32,8 @@ That's basically my entire personality as a dev.
 - ☕ Runs on caffeine and Stack Overflow tabs I forgot to close
 ```
 
-📫 Poke me: **[your.email@example.com]**
-🌐 Lair: **[your-portfolio-link.com]**
+📫 Poke me: **herambmurthy2005@gmail.com**
+🌐 Lair: **https://herambkataru.web.app/**
 
 ---
 
@@ -125,16 +125,16 @@ That's basically my entire personality as a dev.
 
 ---
 
-## `$ ping [Your Name]`
+## `$ ping Heramb`
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/heramb-sreedhar-kataru-309b841a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:herambmurthy2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="your-portfolio-link.com" target="_blank">
+  <a href="https://herambkataru.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
