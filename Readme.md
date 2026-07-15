@@ -87,7 +87,7 @@ That's basically my entire personality as a dev.
   </tr>
 </table>
 
-<p align="center"><em>full write-ups live at <a href="your-portfolio-link.com">your-portfolio-link.com</a> — more repos than fit in this table 📂</em></p>
+<p align="center"><em>full write-ups live at <a href="https://herambkataru.web.app/">Heramb Kataru's Showcase</a> — more repos than fit in this table 📂</em></p>
 
 ---
 
